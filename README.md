@@ -10,7 +10,7 @@ A simple digital clock web application that displays the current time in hours, 
 
 ## Live Demo
 
-View the live demo at: [https://iam269.github.io/Digital-Clock/](https://iam269.github.io/Digital-Clock/)
+View the live demo at: [https://itsiamdev.github.io/Digital-Clock/](https://itsiamdev.github.io/Digital-Clock/)
 
 ## Technologies Used
 
